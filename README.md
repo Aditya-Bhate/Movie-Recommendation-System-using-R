@@ -10,7 +10,7 @@ Have you ever been on an online streaming platform like Netflix, Amazon Prime, V
 <a ><img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/data-science-movie-recommendation-project.jpg" /></a>
 
 ### Movie Recommendation System Project using ML
-The main goal of this machine learning project is to build a recommendation engine that recommends movies to users. This R project is designed to help understand how a recommendation system works. We have developed an Item Based Collaborative Filter. This project helped me gain experience of implementing your R, Data Science, and Machine learning skills in a real-life project.
+The main goal of this machine learning project is to build a recommendation engine that recommends movies to users. This R project is designed to help understand how a recommendation system works. We have developed an Item Based Collaborative Filter. This project helped me gain experience of implementing R, Data Science, and Machine learning skills in a real-life project.
 
 ### What is a Recommendation System?
 A recommendation system provides suggestions to the users through a filtering process that is based on user preferences and browsing history. The information about the user is taken as an input. The information is taken from the input that is in the form of browsing data. This information reflects the prior usage of the product as well as the assigned ratings. A recommendation system is a platform that provides its users with various contents based on their preferences and likings. A recommendation system takes the information about the user as an input. The recommendation system is an implementation of the machine learning algorithms.
