@@ -68,7 +68,6 @@ I created a ```top_recommendations``` variable which I initialized to 10, specif
 ### Group Presentation Recording ⏺
 [Group Presentation](https://drive.google.com/file/d/1bucUcJ60aItxyQOCtYAfnoIG9guIPuzb/view?usp=sharing)
 
-
 #
 
 📣  Feel free to have a look at all the files in this repository !🤗
